@@ -68,25 +68,11 @@ A brief and incomplete guide to the UI icons that can be extracted from the FFXI
 199000: plate decorations
 200000: fashion accessory items
 210000: status effects
-211000: status effects
-212000: status effects
-213000: status effects
-214000: status effects
-215000: status effects
-216000: status effects
-217000: status effects
-218000: status effects
-219000: status effects
-220000: status effects
-229000: status effects
 230000: gpose stamps
-231000: gpose stamps
-234000: gpose stamps
 240000: strategy board
 241000: cosmic exploration
 246000: emotes
 250000: hairstyles (CharaMakeCustomize)
-251000: hairstyles (CharaMakeCustomize)
 ```
 
 ---

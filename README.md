@@ -1,22 +1,30 @@
 # FFXIV Icons
+
 ## Introduction
+
 A brief and incomplete guide to the UI icons that can be extracted from the FFXIV game data.
 
 [Learn how you can contribute!](CONTRIBUTING.md)
 
 ## Resources
-* [Alpha](https://github.com/NotNite/Alpha) – Browse icons
-* [Saint Coinach](https://github.com/xivapi/SaintCoinach) – Dump all icons as PNGs
-    * Download `SaintCoinach.Cmd.zip` from the latest release and run the `ui` command
-* [XIV ID](https://arcanedisgea.github.io/xiv-id) – Search icons by name
-* [XIVAPI](https://v2.xivapi.com/docs/guides/assets) – Retrieve icons by ID
+
+- [Alpha](https://github.com/NotNite/Alpha) – Browse icons
+- [Saint Coinach](https://github.com/xivapi/SaintCoinach) – Dump all icons as PNGs
+  - Download `SaintCoinach.Cmd.zip` from the latest release and run the `ui` command
+- [XIV ID](https://arcanedisgea.github.io/xiv-id) – Search icons by name
+- [XIVAPI](https://v2.xivapi.com/docs/guides/assets) – Retrieve icons by ID
 
 ## Reference
+
 ```rb
-000000: actions
+000000 - 003000: actions
+004000: mounts (small)
+005000 - 006000: traits
+008000: fashion accessories (small)
+009000: companion traits, pvp actions
 010000: status effects
 019000: event/fashion/mount actions
-020000: items
+020000 - 057000: items
 058000: fashions (small), bardings
 059000: mount, minions (small)
 060000: weather, map markers, market board, player markers, various icons
@@ -26,7 +34,7 @@ A brief and incomplete guide to the UI icons that can be extracted from the FFXI
 064000: eureka actions
 065000: currency, ocean fishing
 066000: macro icons
-067000: fashions (large)
+067000: fashion accessories (large)
 068000: mount & minion (large)
 069000: mount footprints
 071000: credits
@@ -50,12 +58,13 @@ A brief and incomplete guide to the UI icons that can be extracted from the FFXI
 114000: new game+
 120000: flashes
 130000: facepaint (CharaMakeCustomize)
-131000: hairstyles (CharaMakeCustomize)
+131000 - 136000: hairstyles (CharaMakeCustomize)
 137000: hrothgar (CharaMakeCustomize)
 138000: viera (CharaMakeCustomize)
 139000: hrothiera facepaint (CharaMakeCustomize)
-150000: tutorials
+150000 - 156000: tutorials
 180000: golden saucer misc
+181000: boss titles
 190000: portrait backgrounds
 191000: portrait frames
 192000: portrait decorations
@@ -67,8 +76,8 @@ A brief and incomplete guide to the UI icons that can be extracted from the FFXI
 198000: plate frames
 199000: plate decorations
 200000: fashion accessory items
-210000: status effects
-230000: gpose stamps
+210000 - 229000: status effects
+230000 - 234000: gpose stamps
 240000: strategy board
 241000: cosmic exploration
 246000: emotes

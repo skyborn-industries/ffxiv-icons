@@ -4,11 +4,13 @@
 
 A brief and incomplete guide to the UI icons that can be extracted from the FFXIV game data.
 
+If you are looking for user interface elements (e.g. anything that pops up in a rectangular interface), there is a good chance they come from ULD spritesheets, not UI icons. ULD files are generally well named, so they are not included in this reference.
+
 [Learn how you can contribute!](CONTRIBUTING.md)
 
 ## Resources
 
-- [Alpha](https://github.com/NotNite/Alpha) – Browse icons
+- [Alpha](https://github.com/NotNite/Alpha) – Browse icons, ULDs, maps, and more
 - [Saint Coinach](https://github.com/xivapi/SaintCoinach) – Dump all icons as PNGs
   - Download `SaintCoinach.Cmd.zip` from the latest release and run the `ui` command
 - [XIV ID](https://arcanedisgea.github.io/xiv-id) – Search icons by name

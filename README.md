@@ -44,6 +44,7 @@ If you are looking for user interface elements (e.g. anything that pops up in a 
 073000: unending codex, battle dialog portraits
 076000: stickers, mahjong
 078000: feesh
+080000: leve frames & cards, special events quests, relic books & weapons
 081000: sightseeing log
 082000: trust, orchestrion, island sanctuary
 083000: grand company seal
